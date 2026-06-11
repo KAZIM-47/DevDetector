@@ -1,6 +1,7 @@
 # DevDetector🔍
 
-A GitHub profile search tool that lets you look up any GitHub user and instantly view their profile stats, bio, repos, followers, and social links — with a clean dark/light mode toggle.
+A GitHub profile search tool with instant stats, repos, followers, and social links. Dark/light mode included.
+
 
 ---
 
