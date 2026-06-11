@@ -1,10 +1,10 @@
-# DevDetector 🔍
+# DevDetector🔍
 
 A GitHub profile search tool that lets you look up any GitHub user and instantly view their profile stats, bio, repos, followers, and social links — with a clean dark/light mode toggle.
 
 ---
 
-## 🚀 Features
+## 🚀Features
 
 - Search any GitHub username via the GitHub REST API
 - Displays profile info: avatar, name, bio, join date
@@ -15,7 +15,7 @@ A GitHub profile search tool that lets you look up any GitHub user and instantly
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 - HTML5
 - CSS3
@@ -25,7 +25,7 @@ A GitHub profile search tool that lets you look up any GitHub user and instantly
 
 ---
 
-## 📁 Project Structure
+## 📁Project Structure
 
 ```
 DevDetector/
@@ -44,7 +44,7 @@ DevDetector/
 
 ---
 
-## 🖥️ How to Run Locally
+## 🖥️How to Run Locally
 
 1. Clone the repo:
    ```bash
@@ -54,7 +54,7 @@ DevDetector/
 
 ---
 
-## 📌 Roadmap / Planned Improvements
+## 📌Roadmap / Planned Improvements
 
 - [ ] Deploy on GitHub Pages
 - [ ] Show recent repositories list
@@ -62,6 +62,6 @@ DevDetector/
 
 ---
 
-## 👤 Author
+## 👤Author
 
 **Kazim** — [GitHub](https://github.com/KAZIM-47)
